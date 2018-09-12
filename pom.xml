@@ -94,12 +94,12 @@
 		<repository>
 			<id>deployment</id>
 			<name>libs-release</name>
-			<url>http://54.87.167.164/nexus/content/artifactory/libs-release</url>
+			<url>http://52.91.251.174:8081/nexus/content/repositories/releases/</url>
 		</repository>
 		<repository>
 			<id>public</id>
 			<name>public</name>
-			<url>http://54.87.167.164/nexus/content/groups/public/</url>
+			<url>http://52.91.251.174/nexus/content/groups/public/</url>
 		</repository>
 	</repositories>
 	-->
@@ -108,12 +108,12 @@
 		<repository>
 			<id>deployment</id>
 			<name>Nexus Release Repository</name>
-			<url>http://54.87.167.164/nexus/content/repositories/releases/</url>
+			<url>http://52.91.251.174/nexus/content/repositories/releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>deployment</id>
 			<name>Nexus Snapshots Repository</name>
-			<url>http://54.87.167.164/nexus/content/repositories/snapshots/</url>
+			<url>http://52.91.251.174/nexus/content/repositories/snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<profiles>
