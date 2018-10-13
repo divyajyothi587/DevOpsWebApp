@@ -94,12 +94,12 @@
 		<repository>
 			<id>deployment</id>
 			<name>libs-release</name>
-			<url>http://52.91.251.174:8081/nexus/content/repositories/releases/</url>
+			<url>http://54.174.13.1:8081/nexus/content/repositories/releases/</url>
 		</repository>
 		<repository>
-			<id>public</id>
+			<id>public</1id>
 			<name>public</name>
-			<url>http://52.91.251.174/nexus/content/groups/public/</url>
+			<url>http://54.174.13.1/nexus/content/groups/public/</url>
 		</repository>
 	</repositories>
 	-->
